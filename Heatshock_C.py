@@ -1,6 +1,6 @@
 """
 Created on Feb 18 2023
-@author: Gen Mizuki
+@author: gegencho
 """
 
 import sys
