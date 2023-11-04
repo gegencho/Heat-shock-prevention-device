@@ -1,5 +1,5 @@
 # Heat-shock protection system
-本システムは高齢者を対象としたヒートショック対策用ソフトウェアである
+本システムは高齢者を対象としたヒートショック対策用ソフトウェアである  
 親機用ソフト(Heatshock_P)と子機用ソフト(Heatshock_C)から成り立つ
 
 ## [ソフト名]Heatshock_P
